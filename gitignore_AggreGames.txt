@@ -1,0 +1,20 @@
+# Compilation
+bin/
+out/
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+# Fichiers générés à l'exécution
+params.txt
+
+# Licences et secrets
+*.licenses
+license.jar
+.env
